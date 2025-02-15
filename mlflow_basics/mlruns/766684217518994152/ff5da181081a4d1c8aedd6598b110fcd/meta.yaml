@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/ff5da181081a4d1c8aedd6598b110fcd/artifacts
+end_time: 1739639696863
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: ff5da181081a4d1c8aedd6598b110fcd
+run_name: merciful-wren-311
+run_uuid: ff5da181081a4d1c8aedd6598b110fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639695374
+status: 4
+tags: []
+user_id: hp

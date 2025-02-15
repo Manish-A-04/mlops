@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/7e418e19662840d696632ffe0de1d4d6/artifacts
+end_time: 1739636984486
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 7e418e19662840d696632ffe0de1d4d6
+run_name: receptive-elk-597
+run_uuid: 7e418e19662840d696632ffe0de1d4d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636983208
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/16cb421b4d7f4c5daace7179b6cf4faa/artifacts
+end_time: 1739639518914
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 16cb421b4d7f4c5daace7179b6cf4faa
+run_name: melodic-hare-877
+run_uuid: 16cb421b4d7f4c5daace7179b6cf4faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639517635
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/e6d309a2dcf645d8b813e1cf1c257ddd/artifacts
+end_time: 1739636724842
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: e6d309a2dcf645d8b813e1cf1c257ddd
+run_name: unique-fawn-511
+run_uuid: e6d309a2dcf645d8b813e1cf1c257ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636723203
+status: 4
+tags: []
+user_id: hp

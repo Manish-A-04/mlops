@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/c1702d779ca44a5f9b953f7496126ad1/artifacts
+end_time: 1739636724799
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: c1702d779ca44a5f9b953f7496126ad1
+run_name: sedate-moth-624
+run_uuid: c1702d779ca44a5f9b953f7496126ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636723273
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/8f8801ad49b04f96b9896d720b0082d9/artifacts
+end_time: 1739639607469
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 8f8801ad49b04f96b9896d720b0082d9
+run_name: intrigued-worm-74
+run_uuid: 8f8801ad49b04f96b9896d720b0082d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639606342
+status: 4
+tags: []
+user_id: hp

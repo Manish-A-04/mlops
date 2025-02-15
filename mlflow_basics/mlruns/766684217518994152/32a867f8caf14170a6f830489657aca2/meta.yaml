@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/32a867f8caf14170a6f830489657aca2/artifacts
+end_time: 1739636238290
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 32a867f8caf14170a6f830489657aca2
+run_name: ambitious-fox-313
+run_uuid: 32a867f8caf14170a6f830489657aca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636236838
+status: 4
+tags: []
+user_id: hp

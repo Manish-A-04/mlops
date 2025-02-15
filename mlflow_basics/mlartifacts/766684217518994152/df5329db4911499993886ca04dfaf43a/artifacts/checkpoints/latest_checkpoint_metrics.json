@@ -1,0 +1,8 @@
+{
+  "loss": 36.447235107421875,
+  "root_mean_squared_error": 6.037154674530029,
+  "val_loss": 36.34927749633789,
+  "val_root_mean_squared_error": 6.029036045074463,
+  "epoch": 2,
+  "global_step": 114
+}

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/abae10999c184a0ca273a13d45ef260c/artifacts
+end_time: 1739639453162
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: abae10999c184a0ca273a13d45ef260c
+run_name: efficient-mare-375
+run_uuid: abae10999c184a0ca273a13d45ef260c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639452015
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/f06931e7a736440fafee22279bd3698a/artifacts
+end_time: 1739636846976
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: f06931e7a736440fafee22279bd3698a
+run_name: illustrious-rat-543
+run_uuid: f06931e7a736440fafee22279bd3698a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636845805
+status: 4
+tags: []
+user_id: hp

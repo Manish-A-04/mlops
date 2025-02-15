@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/57d67b6094b749c9b80ff1a3afb65f7d/artifacts
+end_time: 1739636238306
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 57d67b6094b749c9b80ff1a3afb65f7d
+run_name: blushing-ape-422
+run_uuid: 57d67b6094b749c9b80ff1a3afb65f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739636236767
+status: 4
+tags: []
+user_id: hp

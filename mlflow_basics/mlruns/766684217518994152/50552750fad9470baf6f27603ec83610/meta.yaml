@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/50552750fad9470baf6f27603ec83610/artifacts
+end_time: 1739639518862
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 50552750fad9470baf6f27603ec83610
+run_name: luxuriant-seal-360
+run_uuid: 50552750fad9470baf6f27603ec83610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639517738
+status: 4
+tags: []
+user_id: hp

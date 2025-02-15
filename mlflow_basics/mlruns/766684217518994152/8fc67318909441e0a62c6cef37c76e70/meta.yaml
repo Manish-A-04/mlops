@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/8fc67318909441e0a62c6cef37c76e70/artifacts
+end_time: 1739639542984
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 8fc67318909441e0a62c6cef37c76e70
+run_name: peaceful-vole-455
+run_uuid: 8fc67318909441e0a62c6cef37c76e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639541854
+status: 4
+tags: []
+user_id: hp

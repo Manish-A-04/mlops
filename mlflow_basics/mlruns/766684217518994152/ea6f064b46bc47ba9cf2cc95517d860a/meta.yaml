@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/ea6f064b46bc47ba9cf2cc95517d860a/artifacts
+end_time: 1739640196947
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: ea6f064b46bc47ba9cf2cc95517d860a
+run_name: gentle-bat-112
+run_uuid: ea6f064b46bc47ba9cf2cc95517d860a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739640196868
+status: 4
+tags: []
+user_id: hp

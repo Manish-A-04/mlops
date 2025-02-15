@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/a75abc4a02dc4d67ace88b2528c12680/artifacts
+end_time: 1739635755236
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: a75abc4a02dc4d67ace88b2528c12680
+run_name: awesome-shark-987
+run_uuid: a75abc4a02dc4d67ace88b2528c12680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739635755181
+status: 4
+tags: []
+user_id: hp

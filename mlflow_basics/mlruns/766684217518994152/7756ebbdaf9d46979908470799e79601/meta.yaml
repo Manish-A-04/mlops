@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766684217518994152/7756ebbdaf9d46979908470799e79601/artifacts
+end_time: 1739639940161
+entry_point_name: ''
+experiment_id: '766684217518994152'
+lifecycle_stage: active
+run_id: 7756ebbdaf9d46979908470799e79601
+run_name: marvelous-sheep-666
+run_uuid: 7756ebbdaf9d46979908470799e79601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739639921423
+status: 3
+tags: []
+user_id: hp
